@@ -1,0 +1,18 @@
+# TuPrimeraPaginaLeonidas
+
+Este es mi primer sitio web hecho con Django utilizando el patrón MVT.  
+Es un blog simple que permite:
+
+- Crear autores
+- Crear categorías
+- Crear publicaciones
+- Buscar publicaciones por título
+
+---
+
+## 🛠 Cómo ejecutar el proyecto
+
+1. Clonar el repositorio:
+```bash
+git clone https://github.com/tuusuario/TuPrimeraPaginaLeonidas.git
+cd TuPrimeraPaginaLeonidas
